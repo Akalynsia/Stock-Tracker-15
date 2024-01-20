@@ -1,4 +1,3 @@
-import Stock from "@/components/Stock";
 export default [
   {
     stockName: "AAPL",
